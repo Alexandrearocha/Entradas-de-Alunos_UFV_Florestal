@@ -310,7 +310,7 @@ from dash import html
 import plotly.graph_objects as go
 
 app = Dash(__name__,external_stylesheets = [dbc.themes.BOOTSTRAP])
-
+server=app.server
  
 external_stylesheets = [dbc.themes.BOOTSTRAP]
 
