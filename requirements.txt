@@ -1,6 +1,5 @@
 pandas
 numpy
-decimal
 plotly.express
 Dash
 dcc
