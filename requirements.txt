@@ -1,6 +1,5 @@
 pandas
 numpy
-matplotlib.pyplot
 decimal
 plotly.express
 Dash
