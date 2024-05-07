@@ -1,13 +1,20 @@
 absl-py==2.0.0
-
+aiobotocore @ file:///C:/b/abs_74o47svlua/croot/aiobotocore_1680004300264/work
+aiofiles @ file:///C:/b/abs_9ex6mi6b56/croot/aiofiles_1683773603390/work
+aiohttp @ file:///C:/ci_311/aiohttp_1676432932774/work
+aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+aiosqlite @ file:///C:/b/abs_9djc_0pyi3/croot/aiosqlite_1683773915844/work
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==5.3.0
- 
+anaconda-catalogs @ file:///C:/b/abs_8btyy0o8s8/croot/anaconda-catalogs_1685727315626/work
 anaconda-client==1.12.0
 anaconda-navigator==2.4.2
- 
+anaconda-project @ file:///C:/ci_311/anaconda-project_1676458365912/work
 anyio @ file:///C:/ci_311/anyio_1676425491996/work/dist
 appdirs==1.4.4
- 
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
 arrow @ file:///C:/ci_311/arrow_1678249767083/work
 astroid @ file:///C:/ci_311/astroid_1678740610167/work
 astropy @ file:///C:/ci_311_rebuilds/astropy_1678996071858/work
@@ -104,6 +111,7 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 greenlet @ file:///C:/ci_311/greenlet_1676436788118/work
 grpcio==1.59.0
+gunicorn==22.0.0
 h5py @ file:///C:/ci_311/h5py_1676504676103/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_13gytsh91v/croot/holoviews_1690480023447/work
