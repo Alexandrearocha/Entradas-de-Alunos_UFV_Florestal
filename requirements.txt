@@ -10,3 +10,5 @@ callback
 dash_table
 dash_bootstrap_components
 plotly.graph_objects
+matplotlib.pyplot
+decimal
