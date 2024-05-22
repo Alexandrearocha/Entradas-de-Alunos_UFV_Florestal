@@ -1,12 +1,5 @@
 streamlit
-PIL
 pandas
 numpy
 plotly
-nltk
 matplotlib
-seaborn
-wordcloud
-cleantext
-pickle
-sklearn
